@@ -15,7 +15,7 @@ In the data folder you will find json files that inlude prompts, answers and cat
 
 The `manipulate_responses.csv` file includes a concatination of the json files.
 
-In the `ethics_data` folder you will find datasets that have prompts to train a model on commonsense, deontology, justice, utilartarianism, and virtue. The folder was taken from this [repository](https://github.com/hendrycks/ethics).
+In the `data/ethics_data` folder you will find datasets that have prompts to train a model on commonsense, deontology, justice, utilartarianism, and virtue. The folder was taken from this [repository](https://github.com/hendrycks/ethics).
 
 ## Analysis
 
