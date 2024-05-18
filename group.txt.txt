@@ -1,0 +1,3 @@
+Name: Edouard Gouilliard
+Email: egouilliard@uchicago.du
+Repository link: https://github.com/egouilliard/data_259_ethics
